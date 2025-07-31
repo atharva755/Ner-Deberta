@@ -17,8 +17,7 @@ This project implements a powerful Named Entity Recognition (NER) model using th
 
 ```
 NER-DeBERTa-NER/
-├── data/
-│   └── trainmegadata.txt         # BIO formatted training data
+ ner_crime-training_300_sentences.txt         # BIO formatted training data
 ├── models/
 │   └── ner_model/                # Saved fine-tuned model
 ├── train_ner_deberta.ipynb       # Jupyter notebook for training
